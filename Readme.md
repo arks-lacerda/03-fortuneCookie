@@ -27,7 +27,7 @@ The project is a fortune cookie.
 * It has an amination to break the cookie and another one to show the message.
 * Random messages.
 
-- [Access the finished project, online](https://arks-lacerda.github.io/02-focusTimePlus/)
+- [Access the finished project, online](https://arks-lacerda.github.io/03-fortuneCookie/)
 
 ## 🔖 Layout
 
